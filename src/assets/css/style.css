@@ -1488,6 +1488,7 @@ ul.portfolio-image li .desc {
   background: whitesmoke;
   border-bottom: 2px solid #f7f7f7;
   padding: 40px 20px;
+  height:350px;
 }
 
 .service-box:hover {
@@ -1560,3 +1561,11 @@ ul.portfolio-image li .desc {
 .bold-font {
   font-weight: bold;
 }
+
+
+/*Service Decription List*/
+
+.service-description-list {
+  text-align: left;
+}
+
