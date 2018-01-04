@@ -1,0 +1,72 @@
+.not-found-background-image h1 {
+  text-align: center;
+}
+
+.page-not-found-jumbo {
+  background-color: transparent;
+  position: absolute;
+  margin-top: 200px;
+}
+
+.hero-title--404 {
+  margin-bottom: 25px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.bg-404-image {
+  min-height: 110vh;
+  min-width: 100vw;
+  margin-top: -70px;
+}
+
+.not-found-text {
+  margin-bottom: 25px;
+  font-size: 18px;
+}
+
+.not-found-background-image {
+  min-height: 100vh;
+  min-width: 100vw;
+  text-align: center;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.display-3 {
+  text-align: center;
+}
+
+.not-found-button-holder {
+  text-align: center;
+  z-index: 999;
+}
+
+.not-found-text-holder {
+  text-align: center;
+  color: white;
+}
+
+/*Buttons*/
+
+.green-button {
+  padding-right: 30px;
+  padding-left: 30px;
+  border-radius: 5px;
+  background-color: #01d195;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Oxygen", sans-serif;
+  color: white;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.green-button:hover {
+  color: white;
+  opacity: 0.75;
+}
