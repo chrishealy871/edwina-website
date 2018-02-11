@@ -12,4 +12,8 @@ export class HomeComponent implements OnInit {
   ngOnInit() {
   }
 
+  mailToContact() {
+    router.navigateTo('mailto:contact@edwinadunne.me');
+  }
+
 }
