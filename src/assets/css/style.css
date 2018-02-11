@@ -906,7 +906,7 @@ ul.portfolio-image li .desc {
 
 /*---------- d. testimonial -----------*/
 #testimonial {
-  background-image: url(../theme-images/testimonial-bg.jpg);
+  /*background-image: url(../theme-images/testimonial-bg.jpg);*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -916,7 +916,7 @@ ul.portfolio-image li .desc {
   padding: 0;
   margin: 0;
   width: 100%;
-  height: 550px;
+  /*height: 550px;*/
 }
 
 .list-testimonial {
