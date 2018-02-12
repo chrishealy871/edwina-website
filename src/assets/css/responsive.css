@@ -1,11 +1,11 @@
 @media screen and (max-width: 480px){
 	/*----- layout ----*/
 	.grey-bg, .white-bg{
-		padding: 40px 0; 
+		padding: 40px 0;
 	}
 	/*---- hero -----*/
 	.hero-content{
-		min-width: 280px; 
+		min-width: 280px;
 		padding: 25px;
 	}
 	.menu-wrap{width: 220px;}
@@ -24,7 +24,7 @@
   }
 
 	/*---- quote -----*/
-	.wrap-about{ 
+	.wrap-about{
 		padding: 0 0 20px 0;
 		min-height: 400px !important;
 	}
@@ -39,14 +39,14 @@
 
 
   /*------- testimonial -------*/
-  #testimonial{ height: 700px;}
+  /*#testimonial{ height: 700px;}*/
 
   .skillst {margin-top: 50px;}
 }
 
 
 @media screen and (max-width: 768px){
-	/*------ header -----*/	
+	/*------ header -----*/
 	.for-sticky{ padding: 0; }
 	.logo-nav { margin-left: 0;}
 	.menu-button{margin-right: 15px;}
@@ -90,7 +90,7 @@
     margin-left: -40px;
     text-align: center;
 	}
-	footer ul.social li { 
+	footer ul.social li {
 		padding: 0px 10px 0px 10px;
 	}
 }
@@ -98,6 +98,6 @@
 @media screen and (min-width: 1024px){
 	.content-right {
 	  margin-top: 20px;
-	  padding: 0 20px 0 60px; 
+	  padding: 0 20px 0 60px;
 	}
 }
