@@ -173,6 +173,10 @@
   margin: auto;
 }
 
+.testimonial-section-header-title{
+  padding-top: 20px;
+}
+
 .testimonial-box {
   width: 400px;
   height: 220px;
