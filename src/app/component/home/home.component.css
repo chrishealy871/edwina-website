@@ -164,7 +164,14 @@
 
 
 
+
+
 /*Testimonial Section*/
+
+#testimonial {
+  max-width: 1192px;
+  margin: auto;
+}
 
 .testimonial-box {
   width: 400px;
