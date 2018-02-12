@@ -16,7 +16,7 @@ export class HomeComponent implements OnInit {
   }
 
   mailToContact() {
-    this.router.navigateByUrl('mailto:contact@edwinadunne.me');
+    window.open('mailto:contact@edwinadunne.me');
   }
 
 }
